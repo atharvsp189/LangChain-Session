@@ -11,7 +11,7 @@ In this session, we cover:
 - ✅ What is LangChain and why use it?
 - ✅ Key concepts: LLMs, Prompt Templates, Chains, Tools, Agents, and RAG (Retrieval-Augmented Generation)
 - ✅ Building simple LangChain-powered applications
-- ✅ Integrating LangChain with Vector Databases like **Qdrant**
+- ✅ Integrating LangChain with Vector Databases.
 - ✅ Hands-on examples and coding walkthroughs
 
 ---
