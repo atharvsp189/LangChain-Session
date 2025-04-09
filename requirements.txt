@@ -4,3 +4,7 @@ langchain
 langchain-core
 langchain-community
 langchain-groq
+langchain_google_genai
+pymupdf
+bs4
+faiss-cpu
