@@ -51,7 +51,10 @@ cd LangChain-Session
 ```
 Create a virtual environment (optional but recommended)
 ```
-uv venv
+python -m venv .venv
+```
+Activate Enviourment
+```
 # On Mac/Linux: source venv/bin/activate  
 # On Windows: venv\Scripts\activate
 ```
@@ -60,6 +63,9 @@ Install dependencies
 ```
 pip install -r requirements.txt
 ```
+create .env file and paste API Keys
+
+
 Run the notebooks Open the Jupyter notebooks and start exploring LangChain examples.
 
 ## 📚 Resources
